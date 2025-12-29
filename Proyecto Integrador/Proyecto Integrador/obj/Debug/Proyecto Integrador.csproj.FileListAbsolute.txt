@@ -1,0 +1,11 @@
+C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.AssemblyReference.cache
+C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Properties.Resources.resources
+C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.GenerateResource.cache
+C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Menu.resources
+C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Tipos_de_Enfermedades.resources
