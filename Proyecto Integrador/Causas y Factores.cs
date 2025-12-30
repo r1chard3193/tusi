@@ -10,26 +10,21 @@ using System.Windows.Forms;
 
 namespace Proyecto_Integrador
 {
-    public partial class Estadisticas : Form
+    public partial class Causas_y_Factores : Form
     {
-        public Estadisticas()
+        public Causas_y_Factores()
         {
             InitializeComponent();
         }
 
-        private void Estadisticas_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel7_Click(object sender, EventArgs e)
+        private void panel5_Click(object sender, EventArgs e)
         {
             Menu menu = new Menu();
             menu.Show();
             this.Hide();
         }
 
-        private void panel8_Click(object sender, EventArgs e)
+        private void panel6_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }

@@ -33,5 +33,34 @@ namespace Proyecto_Integrador
             entrar.Show();
             this.Hide();
         }
+
+        private void panel2_Click(object sender, EventArgs e)
+        {
+            Estadisticas graficas = new Estadisticas();
+            graficas.Show();
+            this.Hide();
+        }
+
+        private void panel3_Click(object sender, EventArgs e)
+        {
+            Causas_y_Factores factos = new Causas_y_Factores();
+            factos.Show();
+            this.Hide();
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel6_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

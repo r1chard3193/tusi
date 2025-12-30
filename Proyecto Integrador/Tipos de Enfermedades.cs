@@ -15,6 +15,24 @@ namespace Proyecto_Integrador
         public Tipos_de_Enfermedades()
         {
             InitializeComponent();
+
+        }
+
+        private void panel3_Click(object sender, EventArgs e)
+        {
+            Menu menu = new Menu();
+            menu.Show();
+            this.Hide();
+        }
+
+        private void panel4_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
+
+
+
+
+

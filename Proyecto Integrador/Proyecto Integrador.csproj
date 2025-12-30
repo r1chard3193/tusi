@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Causas y Factores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Causas y Factores.Designer.cs">
+      <DependentUpon>Causas y Factores.cs</DependentUpon>
+    </Compile>
     <Compile Include="Estadisticas.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
     <Compile Include="Tipos de Enfermedades.Designer.cs">
       <DependentUpon>Tipos de Enfermedades.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Causas y Factores.resx">
+      <DependentUpon>Causas y Factores.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Estadisticas.resx">
       <DependentUpon>Estadisticas.cs</DependentUpon>
     </EmbeddedResource>
