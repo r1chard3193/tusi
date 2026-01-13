@@ -9,3 +9,17 @@ C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\obj\Debug\P
 C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
 C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Menu.resources
 C:\Users\Equipo\source\repos\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Tipos_de_Enfermedades.resources
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe.config
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.exe
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\bin\Debug\Proyecto Integrador.pdb
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Estadisticas.resources
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Menu_principal.resources
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Properties.Resources.resources
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.Tipos_de_Enfermedades.resources
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.exe
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto Integrador.pdb
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.MenuF2.resources
+C:\Users\david\OneDrive\Desktop\new_proyecto integrador\Proyecto Integrador\Proyecto Integrador\obj\Debug\Proyecto_Integrador.MenuF4.resources

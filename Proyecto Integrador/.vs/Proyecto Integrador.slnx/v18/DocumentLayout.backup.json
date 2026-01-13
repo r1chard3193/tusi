@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Equipo\\source\\repos\\Proyecto Integrador\\",
+  "WorkspaceRootPath": "C:\\Users\\david\\OneDrive\\Desktop\\new_proyecto integrador\\Proyecto Integrador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DD6DEA1-6452-43FA-AB9C-687F7B2EB0A7}|Proyecto Integrador\\Proyecto Integrador.csproj|c:\\users\\equipo\\source\\repos\\proyecto integrador\\proyecto integrador\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DD6DEA1-6452-43FA-AB9C-687F7B2EB0A7}|Proyecto Integrador\\Proyecto Integrador.csproj|solutionrelative:proyecto integrador\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6DD6DEA1-6452-43FA-AB9C-687F7B2EB0A7}|Proyecto Integrador\\Proyecto Integrador.csproj|c:\\users\\david\\onedrive\\desktop\\new_proyecto integrador\\proyecto integrador\\proyecto integrador\\menu_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD6DEA1-6452-43FA-AB9C-687F7B2EB0A7}|Proyecto Integrador\\Proyecto Integrador.csproj|solutionrelative:proyecto integrador\\menu_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DD6DEA1-6452-43FA-AB9C-687F7B2EB0A7}|Proyecto Integrador\\Proyecto Integrador.csproj|c:\\users\\equipo\\source\\repos\\proyecto integrador\\proyecto integrador\\tipos de enfermedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6DD6DEA1-6452-43FA-AB9C-687F7B2EB0A7}|Proyecto Integrador\\Proyecto Integrador.csproj|solutionrelative:proyecto integrador\\tipos de enfermedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6DD6DEA1-6452-43FA-AB9C-687F7B2EB0A7}|Proyecto Integrador\\Proyecto Integrador.csproj|c:\\users\\david\\onedrive\\desktop\\new_proyecto integrador\\proyecto integrador\\proyecto integrador\\menuf4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DD6DEA1-6452-43FA-AB9C-687F7B2EB0A7}|Proyecto Integrador\\Proyecto Integrador.csproj|solutionrelative:proyecto integrador\\menuf4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD6DEA1-6452-43FA-AB9C-687F7B2EB0A7}|Proyecto Integrador\\Proyecto Integrador.csproj|c:\\users\\david\\onedrive\\desktop\\new_proyecto integrador\\proyecto integrador\\proyecto integrador\\menu_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DD6DEA1-6452-43FA-AB9C-687F7B2EB0A7}|Proyecto Integrador\\Proyecto Integrador.csproj|solutionrelative:proyecto integrador\\menu_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD6DEA1-6452-43FA-AB9C-687F7B2EB0A7}|Proyecto Integrador\\Proyecto Integrador.csproj|c:\\users\\david\\onedrive\\desktop\\new_proyecto integrador\\proyecto integrador\\proyecto integrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD6DEA1-6452-43FA-AB9C-687F7B2EB0A7}|Proyecto Integrador\\Proyecto Integrador.csproj|solutionrelative:proyecto integrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Menu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Equipo\\source\\repos\\Proyecto Integrador\\Proyecto Integrador\\Menu.cs",
-              "RelativeDocumentMoniker": "Proyecto Integrador\\Menu.cs",
-              "ToolTip": "C:\\Users\\Equipo\\source\\repos\\Proyecto Integrador\\Proyecto Integrador\\Menu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto Integrador\\Menu.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T18:29:40.093Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tipos de Enfermedades.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Equipo\\source\\repos\\Proyecto Integrador\\Proyecto Integrador\\Tipos de Enfermedades.cs",
-              "RelativeDocumentMoniker": "Proyecto Integrador\\Tipos de Enfermedades.cs",
-              "ToolTip": "C:\\Users\\Equipo\\source\\repos\\Proyecto Integrador\\Proyecto Integrador\\Tipos de Enfermedades.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyecto Integrador\\Tipos de Enfermedades.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T19:07:23.326Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -55,8 +41,54 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Desktop\\new_proyecto integrador\\Proyecto Integrador\\Proyecto Integrador\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto Integrador\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Desktop\\new_proyecto integrador\\Proyecto Integrador\\Proyecto Integrador\\Program.cs",
+              "RelativeToolTip": "Proyecto Integrador\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:29:37.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu_principal.cs",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Desktop\\new_proyecto integrador\\Proyecto Integrador\\Proyecto Integrador\\Menu_principal.cs",
+              "RelativeDocumentMoniker": "Proyecto Integrador\\Menu_principal.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Desktop\\new_proyecto integrador\\Proyecto Integrador\\Proyecto Integrador\\Menu_principal.cs",
+              "RelativeToolTip": "Proyecto Integrador\\Menu_principal.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:30:24.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu_principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Desktop\\new_proyecto integrador\\Proyecto Integrador\\Proyecto Integrador\\Menu_principal.cs",
+              "RelativeDocumentMoniker": "Proyecto Integrador\\Menu_principal.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Desktop\\new_proyecto integrador\\Proyecto Integrador\\Proyecto Integrador\\Menu_principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto Integrador\\Menu_principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:15:12.651Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuF4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\Desktop\\new_proyecto integrador\\Proyecto Integrador\\Proyecto Integrador\\MenuF4.cs",
+              "RelativeDocumentMoniker": "Proyecto Integrador\\MenuF4.cs",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\Desktop\\new_proyecto integrador\\Proyecto Integrador\\Proyecto Integrador\\MenuF4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto Integrador\\MenuF4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:34:49.3Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
